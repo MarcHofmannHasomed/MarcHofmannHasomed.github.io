@@ -1,1 +1,1 @@
-Public page for web bluetooth
+Public page for web bluetooth demo
