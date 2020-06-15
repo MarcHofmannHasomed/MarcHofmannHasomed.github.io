@@ -1,1 +1,1 @@
-# MarcHofmannHasomed.github.io
+Public page for web bluetooth
